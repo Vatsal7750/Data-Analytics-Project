@@ -12,7 +12,7 @@
 ![2  Sales Overview](https://github.com/Vatsal7750/Data-Analytics-Project/blob/main/PowerBI/Images/Sales_Overview.jpg)
 
 #### iii. Customer Details DASHBOARD
-![3  Customer Details](https://github.com/Vatsal7750/Data-Analytics-Project/blob/main/PowerBI/images/Customer_Details.jpg)
+![3  Customer Details](https://github.com/Vatsal7750/Data-Analytics-Project/blob/main/PowerBI/Images/Customer_Details.jpg)
 
 #### iv. Product Details DASHBOARD
 ![4  Product Details](https://github.com/Vatsal7750/Data-Analytics-Project/blob/main/PowerBI/Images/Product_Details.jpg)
